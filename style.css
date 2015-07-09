@@ -1,0 +1,135 @@
+@import url(http://fonts.googleapis.com/css?family=Hammersmith+One|Orbitron);
+
+body {
+  background-color: #00695C;
+  height: 1000px;
+    border-style: solid;
+    border-width: 15px;
+    border-color:black;
+  border-radius: 100px;
+}
+
+
+#rectangulo {
+  position: block;
+  border-radius: 100px;
+  width: 1300px;
+  height: 100px;
+  background-color: black;
+}
+
+.elli {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Orbitron;
+  color:#FA8072;
+}
+
+
+.elli {
+  position: relative;
+  top: 590px;
+  left: 560px;
+}
+
+/* #dot {
+padding-left: 500px;
+  top: -500px;
+   height: 20px;
+    width: 20px;
+} */
+
+.eye {
+  width: 20%;
+  display:inline-block;
+  margin: auto;
+  padding-left: 15%;
+/*   top: 100; */
+/*   position: relative;
+  left: 21%;
+  top: -100px;
+  max-height: 200px;
+  max-width: 200px; */
+}
+
+#eyeholder {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 5%;
+  margin-top: -10%;
+  width: 80%;
+}
+
+
+#right {
+/*   padding-left: 13%; */
+}
+
+#left {
+  padding-left: 20%;
+}
+
+#rectangle {
+  height: 50%;
+  width: 100%;
+  background-color: black;
+  left: 300px;
+  margin: 0 auto;
+  border-radius: 5%;
+    border-style: solid;
+    border-color: #EF5350
+}
+
+.button {
+    display: block;
+    height: 100px;
+  border-radius: 25px;
+    width: 200px;
+    background: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Hammersmith One', sans-serif;
+    text-size: 3em;
+}
+ 
+.button0 {
+    position: relative; /* Declared position allows for location changes */
+    top: -502.5px; /* Moves the image 2px closer to the top of the page */
+  left: 595px;
+}
+
+
+.button1 {
+    position: relative; /* Declared position allows for location changes */
+    top: -603px; /* Moves the image 2px closer to the top of the page */
+  left: 220px;
+}
+ 
+
+
+.button2 {
+    position: relative; /* Declared position allows for location changes */
+    top: -703px; /* Moves the image 2px closer to the top of the page */
+  left: 1050px;
+}
+
+ 
+.button3 {
+    position: relative; /* Declared position allows for location changes */
+    top: -403px; /* Moves the image 2px closer to the top of the page */
+    left: 200px;
+}
+
+
+.button4 {
+    position: relative; /* Declared position allows for location changes */
+    top: -503px; /* Moves the image 2px closer to the top of the page */
+  left: 600px;
+}
+
+ 
+.button5 {
+    position: relative; /* Declared position allows for location changes */
+    top: -603px; /* Moves the image 2px closer to the top of the page */
+  left: 1050px;
+}
